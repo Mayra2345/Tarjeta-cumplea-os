@@ -10,7 +10,18 @@ En esta practica realizaremos una tarjeta de cumpleaños
 
 
 **---------------------------- DESARROLLO----------------------------**
+Paso 1: dibuje su tarjeta
+Toma una hoja de papel. Piense en alguien a quien le gustaría hacer una tarjeta y dibuje
+un diseño de tarjeta único. Puede ser una tarjeta de cumpleaños, una tarjeta del día de la madre,
+tarjeta de felicitaciones, solo porque tarjeta, tarjeta de halloween, etc.
 
+Paso 2: toma una foto de la tarjeta
+Toma una foto de esta tarjeta. Puede usar la cámara de su teléfono para hacer esto.
+
+Paso 3: Haz tu Tarjeta
+Luego crea la tarjeta, usando todas las habilidades, vistas y grupos que has aprendido
+acerca de en la Lección 1. Trate de hacer que su tarjeta sea lo más simple y clara posible,
+y para evitar usar anchos o alturas fijos.
 
 
 
@@ -18,8 +29,10 @@ En esta practica realizaremos una tarjeta de cumpleaños
 
 + Abra para ver los resultados del brazo 
 
-<a href="https://1drv.ms/u/s!Aizy46b43Ozzgk9h0-hKleCeObHm"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgk9h0-hKleCeObHm" /></a>
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzglr1SQ-MkT6heXkN"><img src="https://1drv.ms/u/s!Aizy46b43Ozzglr1SQ-MkT6heXkN" /></a>
 
+
+<a href="https://1drv.ms/f/s!Aizy46b43OzzglwrenAWUR76PFjU"><img src="https://1drv.ms/f/s!Aizy46b43OzzglwrenAWUR76PFjU" /></a>
 
 **---------------------------- SOFTWARE LIBRE ----------------------------**
 
