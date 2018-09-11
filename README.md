@@ -10,6 +10,7 @@ En esta practica realizaremos una tarjeta de cumpleaños
 
 
 **---------------------------- DESARROLLO----------------------------**
+
 Paso 1: dibuje su tarjeta
 Toma una hoja de papel. Piense en alguien a quien le gustaría hacer una tarjeta y dibuje
 un diseño de tarjeta único. Puede ser una tarjeta de cumpleaños, una tarjeta del día de la madre,
@@ -27,7 +28,7 @@ y para evitar usar anchos o alturas fijos.
 
 **---------------------------- RESULTADOS ----------------------------**
 
-+ Abra para ver los resultados del brazo 
++ Abra para ver los resultados
 
 <a href="https://1drv.ms/u/s!Aizy46b43Ozzglr1SQ-MkT6heXkN"><img src="https://1drv.ms/u/s!Aizy46b43Ozzglr1SQ-MkT6heXkN" /></a>
 
